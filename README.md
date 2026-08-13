@@ -1,4 +1,4 @@
-Semana 2 Extasys Code.
+Semana 3 Extasys Code.
 
 Juan Pablo Leon Davila
 Alejandro Peña Martinez
